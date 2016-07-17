@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<title>My Profile</title>
+<body>
+<h1>Welcome to My Website</h1><hr><br>
+<img src="https://static.wixstatic.com/media/21d327_53539056280e4661bdcdad4efac9d44a.jpg/v1/fill/w_470,h_342,al_c,q_80,usm_0.66_1.00_0.01/21d327_53539056280e4661bdcdad4efac9d44a.jpg" />
+<h2>RIDZUAN SHAH</h2>
+<p>Hello, I would like to introduce myself. Im Ridzuan Shah from Malaysia.</p>
+<p>Im interested in Animation, Graphic Design, Game Development, Motion Graphic & Website Design.</p>
+<p>I currently have my own company Aquaspiral Animations with produces Animations & Graphic Designs.</p>
+
+
+<h2>Link</h2>
+<ul>
+<li>
+<a href="http://www.aquaspiralanimations.com" >Aquaspiral Animations</a><br>
+<li><a href="https://www.youtube.com/channel/UCWbuc8fmu1dVpob-Q47N2WQ/videos">Youtube</a>
+<li><a href="https://www.facebook.com/aquaspiralanimations/" >Facebook</a><br>
+<li><a href="https://twitter.com/Aquaspiral92">Twitter</a></ul>
+<br>
+
+<h2>Work Experience</h2>
+<p> Malaysian Liver Foundation, SoulCentre KL</p><br>
+
+<h2>Video (Animated Series)</h2>
+<p>Feel free to watch our Short Animated Video</P><br><br>
+<a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/7EdQ3KUQXGQ" frameborder="0" allowfullscreen></iframe>"></a>
+
+
+</body>
+</html>
